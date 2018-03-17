@@ -1,0 +1,13 @@
+Abstract
+Detection and Training Tool for Dyslexic People.
+Problem Analysis.
+Dyslexia, also known as reading disorder, is characterized by trouble with reading despite normal intelligence. Different people are affected to varying degrees. Problems may include difficulties in spelling words, reading quickly, writing words, "sounding out" words in the head, pronouncing words when reading aloud and understanding what one reads.
+Idea
+Detection and Training tool for Dyslexic Patients.
+1.) Test for Dyslexia using Speech Recognition.
+2.) Percentage evaluation for dyslexia using BST Data Structure.
+3.) Training for dyslexic patients using text to speech recognition.
+4.) Simple and interactive user interface to engage the attention of children.
+
+
+
